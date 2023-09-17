@@ -5,13 +5,13 @@ The goal of this project is to perform data analytics on Uber data using various
 ![architecture](https://github.com/Ridham-Shah-25/Uber-Data-Engineering-Project/assets/76242216/c56a7f3f-1375-4fa0-97a2-b29fa919e2f9)
 
 ## Technology Used:
-* Programming Language - Python
+* Programming Language - Python<br>
 Google Cloud Platform
 
 1. Google Storage
 2. Compute Instance
 3. BigQuery
-4. Looker Studio
+4. Looker Studio<br>
 Modern Data Pipeine Tool - https://www.mage.ai/
 
 ## Dataset Used:
