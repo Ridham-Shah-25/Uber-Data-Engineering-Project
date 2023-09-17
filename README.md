@@ -28,4 +28,7 @@ https://lookerstudio.google.com/reporting/8864f979-3c04-454c-a439-1c35d0de8413
 ## Entire Process Explained:
 * I got the dataset from https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page. The Dataset contains features like pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
 * I created a GCP Account.
+* I created a new GCS Bucket and uploaded the dataset on the Bucket.
+* Now,we will build our ETL Pipeline using Mage.
+* Start a VM Instance on GCP.
 * 
