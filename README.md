@@ -26,5 +26,6 @@ Column Description is given in The Dataset folder.
 https://lookerstudio.google.com/reporting/8864f979-3c04-454c-a439-1c35d0de8413
 
 ## Entire Process Explained:
-* Create a GCP account.
+* I got the dataset from https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page. The Dataset contains features like pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
+* I created a GCP Account.
 * 
